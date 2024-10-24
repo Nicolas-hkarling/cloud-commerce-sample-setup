@@ -1,14 +1,32 @@
 {
-    "commerceSuiteVersion": "2211.20",
+    "commerceSuiteVersion": "2211.24",
+    "
+    "extensionPacks" :[
+        	{
+		"name" : "hybris-commerce-integrations",
+		"version" : "2211.24"
+	}
+    ]
     "enableImageProcessingService": true,
     "extensions": [
         "cloudmediaconversion",
-        "mediaconversionbackoffice"
+        "mediaconversionbackoffice",
+        "smartedit",
+        "cmssmartedit",
+        "smarteditwebservices",
+        "cmssmarteditwebservices",
+        "oauth2",
+        "cmswebservices",
+        "permissionswebservices",
+        "previewwebservices",
+        "mediaweb"
+        
     ],
     "storefrontAddons": [
         {
             "addons": [
-                "ordermanagementaddon"
+                "b2bacceleratoraddon", 
+                "assistedservicestorefront"
             ],
             "storefronts": [
                 "yacceleratorstorefront"
@@ -556,3 +574,4 @@
         ]
     }
 }
+
