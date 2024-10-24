@@ -19,8 +19,10 @@
         "permissionswebservices",
         "previewwebservices",
         "mediaweb",
-	"b2bacceleratoraddon"
-	
+	"b2bacceleratoraddon",
+	"chinesewechataccountfacades",
+	"chinesewechataccountfacades",
+	"chinesewechatwebservices"
         
     ],
     "storefrontAddons": [
@@ -30,7 +32,8 @@
                 "assistedservicestorefront",
 		"chinesewechatwebaddon",
 		"chinesewechataccountaddon",
-		"chinesewechatnotificationaddon"
+		"chinesewechatnotificationaddon",
+		"chineseprofileaddon"
             ],
             "storefronts": [
                 "yacceleratorstorefront"
