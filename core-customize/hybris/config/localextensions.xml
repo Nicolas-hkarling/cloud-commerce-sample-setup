@@ -6,6 +6,8 @@
     <path dir='${HYBRIS_BIN_DIR}' autoload='false' />
 	  <extension name= 'adaptivesearch' />
 	  <extension name= 'adaptivesearchbackoffice' />
+	 
+	  <extension name= 'assistedservicestorefront' />
 
 		  
 	  <extension name= 'adaptivesearchfacades' />
