@@ -18,7 +18,9 @@
         "cmswebservices",
         "permissionswebservices",
         "previewwebservices",
-        "mediaweb"
+        "mediaweb",
+	"b2bacceleratoraddon"
+	
         
     ],
     "storefrontAddons": [
