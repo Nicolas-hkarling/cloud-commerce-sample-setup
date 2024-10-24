@@ -24,11 +24,15 @@
     ],
     "storefrontAddons": [
         {
-            "addons": "b2bacceleratoraddon", "assistedservicestorefront",
-            "storefronts": "yacceleratorstorefront",
+            "addon": "b2bacceleratoraddon", 
+            "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
 	    
-        }
+        },
+        {  
+            "addon": "assistedservicestorefront", 
+            "storefront": "yacceleratorstorefront",
+            "template": "yacceleratorstorefront"}
     ],
     "useConfig": {
         "properties": [
@@ -571,4 +575,3 @@
         ]
     }
 }
-
