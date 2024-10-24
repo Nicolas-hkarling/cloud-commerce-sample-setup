@@ -24,13 +24,8 @@
     ],
     "storefrontAddons": [
         {
-            "addons": [
-                "b2bacceleratoraddon", 
-                "assistedservicestorefront"
-            ],
-            "storefronts": [
-                "yacceleratorstorefront"
-            ],
+            "addons": "b2bacceleratoraddon", "assistedservicestorefront",
+            "storefronts": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
 	    
         }
