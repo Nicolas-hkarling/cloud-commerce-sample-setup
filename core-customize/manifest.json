@@ -30,9 +30,8 @@
             "storefronts": [
                 "yacceleratorstorefront"
             ],
-            "template": [
-		    "yacceleratorstorefront"
-	    ]
+            "template": "yacceleratorstorefront"
+	    
         }
     ],
     "useConfig": {
