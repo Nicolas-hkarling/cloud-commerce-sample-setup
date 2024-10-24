@@ -27,7 +27,10 @@
         {
             "addons": [
                 "b2bacceleratoraddon", 
-                "assistedservicestorefront"
+                "assistedservicestorefront",
+		"chinesewechatwebaddon",
+		"chinesewechataccountaddon",
+		"chinesewechatnotificationaddon"
             ],
             "storefronts": [
                 "yacceleratorstorefront"
