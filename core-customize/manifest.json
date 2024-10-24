@@ -378,7 +378,10 @@
                 {
                     "name": "xyformsweb",
                     "contextPath": "/xyformsweb"
-                }
+                },
+		{ "name": "chinesewechataccountfacades",
+		  "contextPath": "/chnaccount"
+		}
             ]
         },
         {
